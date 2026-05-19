@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Advanced MVC**
 
-- 👨‍💻 All of my projects are available at [github account](github account)
+- 👨‍💻 All of my projects are available at  github.com/abulele-2001
 
 - 💬 Ask me about **Building websites**
 
